@@ -4,8 +4,12 @@ public class Exercise06 {
 
 	public static void main(String[] args) {
 		
-		//양식 과제1폴더-이름-패키지첨부
-		
+		for(int i=0;i<5;i++) {
+			for(int j=0;j<=i;j++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
 	}
 
 }

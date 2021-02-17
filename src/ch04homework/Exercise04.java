@@ -4,8 +4,14 @@ public class Exercise04 {
 
 	public static void main(String[] args) {
 		
-		double temp=Math.random();
-		temp=(int) (temp*6)+1; //1~6
+		int sum=0;
+		do{
+			int temp1=(int) (Math.random()*6)+1; //1~6
+			int temp2=(int) (Math.random()*6)+1; //1~6
+			sum=(int)(temp1+temp2);
+			
+			System.out.println("("+temp1+", "+temp2+")");
+		}while(sum!=5);
+		
 	}
-
 }

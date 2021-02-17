@@ -4,7 +4,9 @@ public class Exam10 {
 
 	public static void main(String[] args) {
 		
-		//양식 과제1폴더-이름-패키지첨부
+		for(int i=1;i<=10;i++) {
+			System.out.println(i);
+		}
 		
 	}
 

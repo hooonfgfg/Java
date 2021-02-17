@@ -4,7 +4,12 @@ public class Exam14 {
 
 	public static void main(String[] args) {
 		
-		//양식 과제1폴더-이름-패키지첨부
+		for(int m=2;m<=9;m++) {
+			System.out.println("*** "+m+"단 ***");
+			for(int n=1;n<=9;n++) {
+				System.out.println(m+" X "+n+" = "+(m*n));
+			}
+		}
 		
 	}
 

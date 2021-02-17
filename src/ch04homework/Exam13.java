@@ -4,7 +4,9 @@ public class Exam13 {
 
 	public static void main(String[] args) {
 		
-		//양식 과제1폴더-이름-패키지첨부
+		for(float x=0.1f;x<=1.0f;x+=0.1f) {
+			System.out.println(x);
+		}
 		
 	}
 

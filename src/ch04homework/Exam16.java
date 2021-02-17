@@ -4,7 +4,14 @@ public class Exam16 {
 
 	public static void main(String[] args) {
 		
-		//양식 과제1폴더-이름-패키지첨부
+		int sum=0;
+		int i=1;
+		while(i<=100) {
+			sum+=i;
+			i++;
+		}
+		
+		System.out.println("1~"+(i-1)+"합: "+sum);
 		
 	}
 

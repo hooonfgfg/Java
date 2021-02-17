@@ -8,9 +8,13 @@ public class Exam01 {
 		int score=93;
 		
 		if(score>=90){
-			System.out.println("점수가 90보다 큼");
-			System.out.println("등급은 A등급");
+			System.out.println("점수가 90보다 큽니다.");
+			System.out.println("등급은 A 입니다.");
 		}
+		if(score<90)
+			System.out.println("점수가 90보다 작습니다.");
+			System.out.println("등급은 B입니다.");
+	
 	}
 
 }

@@ -1,15 +1,14 @@
 package ch04homework;
 
-public class Exam15 {
+public class Exam21 {
 
 	public static void main(String[] args) {
 		
-		int i=1;
-		while(i<=10) {
+		for(int i=1;i<=10;i++) {
+			if(i%2!=0) {
+				continue;
+			}
 			System.out.println(i);
-			i++;
 		}
-		
 	}
-
 }
