@@ -1,6 +1,6 @@
 package ch04homework;
 
-public class Exam12 {
+public class ForSumFrom1To100Example2 {
 
 	public static void main(String[] args) {
 		

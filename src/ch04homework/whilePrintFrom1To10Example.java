@@ -1,14 +1,15 @@
 package ch04homework;
 
-public class Exam21 {
+public class whilePrintFrom1To10Example {
 
 	public static void main(String[] args) {
 		
-		for(int i=1;i<=10;i++) {
-			if(i%2!=0) {
-				continue;
-			}
+		int i=1;
+		while(i<=10) {
 			System.out.println(i);
+			i++;
 		}
+		
 	}
+
 }

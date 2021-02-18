@@ -1,6 +1,6 @@
 package ch04homework;
 
-public class Exam17 {
+public class WhileKeyControlExample {
 
 	public static void main(String[] args) throws Exception {
 		

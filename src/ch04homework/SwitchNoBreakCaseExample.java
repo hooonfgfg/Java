@@ -1,6 +1,6 @@
 package ch04homework;
 
-public class Exam07 {
+public class SwitchNoBreakCaseExample {
 
 	public static void main(String[] args) {
 		

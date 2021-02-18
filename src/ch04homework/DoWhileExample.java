@@ -2,7 +2,7 @@ package ch04homework;
 
 import java.util.Scanner;
 
-public class Exam18 {
+public class DoWhileExample {
 
 	public static void main(String[] args) {
 		

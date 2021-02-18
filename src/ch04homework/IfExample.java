@@ -1,6 +1,6 @@
 package ch04homework;
 
-public class Exam01 {
+public class IfExample {
 
 	public static void main(String[] args) {
 		

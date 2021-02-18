@@ -1,6 +1,6 @@
 package ch04homework;
 
-public class Exam09 {
+public class SwitchStringExample {
 
 	public static void main(String[] args) {
 		

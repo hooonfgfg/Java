@@ -1,6 +1,6 @@
 package ch04homework;
 
-public class Exam13 {
+public class ForFloatCounterExample {
 
 	public static void main(String[] args) {
 		

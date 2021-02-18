@@ -1,6 +1,6 @@
 package ch04homework;
 
-public class Exam19 {
+public class BreakExample {
 
 	public static void main(String[] args) {
 		

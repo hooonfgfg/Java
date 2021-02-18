@@ -1,6 +1,6 @@
 package ch04homework;
 
-public class Exam20 {
+public class BreakOutterExample {
 
 	public static void main(String[] args) {
 		Outter:for(char upper='A';upper<='Z';upper++) {
